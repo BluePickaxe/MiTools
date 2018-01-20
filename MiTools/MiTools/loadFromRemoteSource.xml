@@ -1,0 +1,6 @@
+﻿<configuration>
+  <runtime>
+    <loadFromRemoteSources enabled="true"/>
+  </runtime>
+</configuration>
+<!-- 버전이 낮은 프로그램도 신뢰하게 설정(샌드박스 오류 방지) -->
