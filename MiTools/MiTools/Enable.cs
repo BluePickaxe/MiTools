@@ -6,7 +6,7 @@ namespace MiTools
     {
         protected override void OnEnable()
         {
-            Console.WriteLine("[MiTools] by 푸른곡괭이(BluePickaxe)");
+            Console.WriteLine("[MiTools] by BluePickaxe");
             Console.WriteLine("[MiTools] Enabling...");
         }
     }
