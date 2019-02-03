@@ -11,7 +11,7 @@ namespace MiTools.Command
         {
             sender.SendMessage("§cMiTools..");
             sender.SendMessage("§6Version: 0.1 beta");
-            sender.SendMessage("§6Author: 푸른곡괭이(BluePickaxe)");
+            sender.SendMessage("§6Author: BluePickaxe");
             sender.SendMessage("§6명령어 사용법 : /kit h");
         }
 
